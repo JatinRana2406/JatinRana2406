@@ -118,16 +118,6 @@ A React-based task management application.
 **Tech:** React • JavaScript • HTML • CSS
 
 🔗 [View Repository](https://github.com/JatinRana2406/todo-app)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JatinRana2406&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinRana2406&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## 🔥 GitHub Streak
