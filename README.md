@@ -124,8 +124,8 @@ A React-based task management application.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JatinRana2406&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinRana2406&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=JatinRana2406&show_icons=true" />
+  <img src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=JatinRana2406" />
 </p>
 
 ---
